@@ -3,6 +3,7 @@
 Полезные ссылки:
 
  - https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+ - https://developers.google.com/web/tools/chrome-devtools/device-mode/
  - http://htmlbook.ru/css/value/media
  - https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
  - http://getbootstrap.com/ 
