@@ -76,16 +76,16 @@
 
 Тег `<textarea>...</textarea>`
 Информацию об этом теге и не только, вы можете почитать здесь:
-http://htmlbook.ru/html/input
+http://htmlbook.ru/html/input  
 http://www.w3schools.com/tags/tag_input.asp
 
 
 Выравние текста с помощью тега `<p>...</p>`
-http://htmlbook.ru/html/p
+http://htmlbook.ru/html/p  
 http://www.w3schools.com/tags/tag_p.asp
 
 Как создать кнопку в html форме
-http://htmlbook.ru/html/button
+http://htmlbook.ru/html/button  
 http://www.w3schools.com/tags/tag_button.asp
 
 Также вам нужно будет в рамках домашнего задания сверстать следущую html-форму для регистрации пользователя:
